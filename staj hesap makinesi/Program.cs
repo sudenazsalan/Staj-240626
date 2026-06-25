@@ -22,7 +22,7 @@ class Program
         int secim = Convert.ToInt32(Console.ReadLine());
 
         double sonuc = 0;
-
+           
         switch (secim)
         {
             case 1:
