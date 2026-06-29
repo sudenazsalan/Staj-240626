@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="asal sayı/asal sayı.csproj" Id="2fb0d592-9f6e-4d86-948f-7fe95404c261" />
   <Project Path="Ortalama/Ortalama.csproj" Id="5ceb2e10-e0fc-4ae0-a1a9-9fcf9a8a19d4" />
   <Project Path="staj - yaş ortalaması/staj - yaş ortalaması.csproj" Id="71346b3c-3ebf-4c26-b779-8582b5ec90b2" />
   <Project Path="staj hesap makinesi/staj hesap makinesi.csproj" />
