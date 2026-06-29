@@ -2,4 +2,5 @@
   <Project Path="Ortalama/Ortalama.csproj" Id="5ceb2e10-e0fc-4ae0-a1a9-9fcf9a8a19d4" />
   <Project Path="staj - yaş ortalaması/staj - yaş ortalaması.csproj" Id="71346b3c-3ebf-4c26-b779-8582b5ec90b2" />
   <Project Path="staj hesap makinesi/staj hesap makinesi.csproj" />
+  <Project Path="staj- faktoriyel hesaplama/staj- faktoriyel hesaplama.csproj" Id="3493996e-182d-498c-ab5b-b9c664a0cc1f" />
 </Solution>
