@@ -7,13 +7,13 @@ namespace OgrenciYonetim
     {
         static void Main(string[] args)
         {
-            // Array (Dizi)
+            
             string[] bolumler = { "Bilgisayar Programcılığı", "Elektrik", "Makine" };
 
-            // List
+          
             List<int> numaralar = new List<int>();
 
-            // Dictionary
+         
             Dictionary<int, string> ogrenciler = new Dictionary<int, string>();
 
             int secim = -1;
