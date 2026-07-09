@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="../../../../Desktop/telefonuyg/telefonuyg.csproj" />
+  <Project Path="telefonuyg/telefonuyg.csproj" />
   <Project Path="asal sayı/asal sayı.csproj" Id="2fb0d592-9f6e-4d86-948f-7fe95404c261" />
   <Project Path="ogrenci/ogrenci.csproj" Id="c2493256-0aa1-436e-b78b-b3e42adb4a11" />
   <Project Path="Ortalama/Ortalama.csproj" Id="5ceb2e10-e0fc-4ae0-a1a9-9fcf9a8a19d4" />
