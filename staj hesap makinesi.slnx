@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../../../../Desktop/telefonuyg/telefonuyg.csproj" />
   <Project Path="asal sayı/asal sayı.csproj" Id="2fb0d592-9f6e-4d86-948f-7fe95404c261" />
   <Project Path="ogrenci/ogrenci.csproj" Id="c2493256-0aa1-436e-b78b-b3e42adb4a11" />
   <Project Path="Ortalama/Ortalama.csproj" Id="5ceb2e10-e0fc-4ae0-a1a9-9fcf9a8a19d4" />
@@ -7,5 +8,4 @@
   <Project Path="staj hesap makinesi/staj hesap makinesi.csproj" />
   <Project Path="staj- faktoriyel hesaplama/staj- faktoriyel hesaplama.csproj" Id="3493996e-182d-498c-ab5b-b9c664a0cc1f" />
   <Project Path="çarpım tablosu/çarpım tablosu.csproj" Id="3e34c784-49e9-4dc7-a576-d377c3e20096" />
-  <Project Path="öğrenciyönetim,/öğrenciyönetim,.csproj" Id="0463456e-b53b-45b3-a86e-ec23241d9a16" />
 </Solution>
