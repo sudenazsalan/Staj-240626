@@ -22,12 +22,12 @@ namespace OgrenciYonetim
             {
                 Console.Clear();
                 Console.WriteLine( " ÖĞRENCİ YÖNETİM ");
-                Console.WriteLine("1 - Öğrenci Ekle");
-                Console.WriteLine("2 - Öğrencileri Listele");
-                Console.WriteLine("3 - Öğrenci Güncelle");
-                Console.WriteLine("4 - Öğrenci Sil");
-                Console.WriteLine("5 - Bölümleri Göster");
-                Console.WriteLine("0 - Çıkış");
+                Console.WriteLine("1  Öğrenci Ekle");
+                Console.WriteLine("2  Öğrencileri Listele");
+                Console.WriteLine("3  Öğrenci Güncelle");
+                Console.WriteLine("4  Öğrenci Sil");
+                Console.WriteLine("5 Bölümleri Göster");
+                Console.WriteLine("0 Çıkış");
                 Console.Write("Seçim: ");
 
                 bool sonuc = int.TryParse(Console.ReadLine(), out secim);
@@ -127,7 +127,7 @@ namespace OgrenciYonetim
 
                         if (!sil)
                         {
-                            Console.WriteLine("Geçersiz numara ");
+                            Console.WriteLine("Geçersiz numara");
                             Console.ReadKey();
                             break;
                         }
@@ -137,11 +137,11 @@ namespace OgrenciYonetim
                             ogrenciler.Remove(sNo);
                             numaralar.Remove(sNo);
 
-                            Console.WriteLine("Öğrenci silindi.");
+                            Console.WriteLine("Öğrenci silindi");
                         }
                         else
                         {
-                            Console.WriteLine("Öğrenci bulunamadı.");
+                            Console.WriteLine("Öğrenci bulunamadı");
                         }
 
                         Console.ReadKey();
