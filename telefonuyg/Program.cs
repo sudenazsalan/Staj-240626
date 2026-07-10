@@ -64,7 +64,7 @@ namespace TelefonRehberi
                             Console.WriteLine("Rehber boş");
                         }
                         else
-                        {
+                        { 
                             Console.WriteLine("Kişiler");
 
                             foreach (var kisi in rehber)
