@@ -145,7 +145,7 @@ namespace TelefonRehberi
                     Console.ReadKey();
                 }
 
-            } while (secim != 0); 
+            } while (secim != 0);  
         }
     }
 }
