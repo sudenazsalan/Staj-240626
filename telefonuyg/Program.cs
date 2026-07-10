@@ -35,7 +35,7 @@ namespace TelefonRehberi
 
                 switch (secim)
                 {
-                    case 1:
+                    case 1: 
 
                         Console.Write("İsim: ");
                         string isim = Console.ReadLine() ?? "";
@@ -145,7 +145,7 @@ namespace TelefonRehberi
                     Console.ReadKey();
                 }
 
-            } while (secim != 0); 
+            } while (secim != 0);  
         }
     }
 }
