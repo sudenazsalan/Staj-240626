@@ -7,13 +7,13 @@ namespace KitapListesiYonetimi
     {
         static void Main(string[] args)
         {
-            // Dizi
+           
             string[] turler = { "Roman", "Hikaye", "Bilim", "Tarih" };
 
-            // List
+           
             List<int> kitapKodlari = new List<int>();
 
-            // Dictionary
+           
             Dictionary<int, string> kitaplar = new Dictionary<int, string>();
 
             int secim = -1;
