@@ -99,7 +99,7 @@ namespace TelefonRehberi
                         break;
 
                     case 4:
-
+                         
                         Console.Write("Silinecek kişinin adı: ");
                         string sil = Console.ReadLine() ?? "";
 
