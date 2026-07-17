@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="StokTakipUygulamasi/StokTakipUygulamasi.csproj" />
+  <Project Path="MusteriTakipUygulamasi/MusteriTakipUygulamasi.csproj" />
+  <Project Path="MusteriUrunTakip/MusteriUrunTakip.csproj" />
 </Solution>
