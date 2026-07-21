@@ -7,25 +7,27 @@ class Program
         public int ID;
         public string AD;
         public string Tel;
+
+
     }
 
     class Urun
     {
         public int ID;
-        public string Ad;
+        public string AD;
         public double Fiyat;
 
         public Urun(int id, string ad, double fiyat)
         {
             ID = id;
-            Ad = ad;
+            AD =ad;
             Fiyat = fiyat;
         }
 
         public void BilgiGoster()
         {
             Console.WriteLine("Ürün ID : " + ID);
-            Console.WriteLine("Ürün Adı : " + Ad);
+            Console.WriteLine("Ürün Adı : " + AD);
             Console.WriteLine("Fiyat : " + Fiyat + " TL");
         }
     }
@@ -62,7 +64,7 @@ class Program
 
         public void KalemGoster()
         {
-            Console.WriteLine("Ürün : " + UrunBilgi.Ad);
+            Console.WriteLine("Ürün : " + UrunBilgi.AD);
             Console.WriteLine("Adet : " + Adet);
             Console.WriteLine("Toplam : " + (UrunBilgi.Fiyat * Adet) + " TL");
         }
