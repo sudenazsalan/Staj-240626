@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="MusteriTakipUygulamasi/MusteriTakipUygulamasi.csproj" />
   <Project Path="MusteriUrunTakip/MusteriUrunTakip.csproj" />
+  <Project Path="satis-raporu-olusturma/satis-raporu-olusturma.csproj" Id="0344bff8-0f47-45b6-a37d-f8afac3595fe" />
+  <Project Path="satis-raporu/satis-raporu.csproj" Id="7d0034b3-a302-4395-932c-483e3bdaa209" />
   <Project Path="siparis/siparis.csproj" Id="e8180dfc-eacc-470c-9ef3-8690de910485" />
   <Project Path="urun filtreleme/urun filtreleme.csproj" Id="29f3bb56-6b8a-4780-9338-70e5b9c8159d" />
 </Solution>
