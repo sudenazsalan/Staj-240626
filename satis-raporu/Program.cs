@@ -10,7 +10,7 @@ class Program
         public required string UrunAdi;
         public required string Kategori;
         public int Adet;
-        public double Fiyat;
+        public double Fiyat; 
     }
 
     static void Main(string[] args)
