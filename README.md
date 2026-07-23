@@ -12,3 +12,7 @@
 12- Ürün Filtreleme: Aranan ürünün bulunmasını kolaylaştıran konsol uygulamısıdır.
 13- Sipariş takip: Siparişlerin takip edildiği konsol uygulamısıdır.
 14- Telefon Uygulaması: Telefon yapısı gösteren konsol uygulamısıdır.
+17- Satış Raporu: Satış raporunun yapıldığı konsol uygulamasıdır.
+15- Satış Raporu Oluşturma: Satış dökümanlarının raporlandığı konsol uygulamasıdır.
+16- En Çok Satan Ürün: En çok satılan ürünün bulunduğu konsol uygulamısıdır.
+  
