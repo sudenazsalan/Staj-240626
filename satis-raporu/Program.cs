@@ -45,7 +45,7 @@ class Program
 
         Console.WriteLine();
 
-        Console.WriteLine("Fiyata Göre Sıralama");
+        Console.WriteLine("Fiyat Sıralama");
 
         var sirala = satislar.OrderBy(x => x.Fiyat);
 
@@ -56,7 +56,7 @@ class Program
 
         Console.WriteLine();
 
-        Console.WriteLine("Kategoriye Göre Gruplama");
+        Console.WriteLine("Kategori Gruplama");
 
         var grup = satislar.GroupBy(x => x.Kategori);
 
@@ -74,9 +74,10 @@ class Program
 
         Console.WriteLine("İlk Satış");
 
-        var ilk = satislar.FirstOrDefault();
+        Satis? ilk = satislar.FirstOrDefault();
 
-        string urunAdi = ilk.UrunAdi;
+        string urunAdi1 = ilk.UrunAdi;
+        string urunAdi = urunAdi1;
         Console.WriteLine(urunAdi);
 
         Console.WriteLine();
