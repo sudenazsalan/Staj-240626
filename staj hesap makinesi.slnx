@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="en-cok-satan-urun/en-cok-satan-urun.csproj" Id="279ad33a-aa78-428e-bd85-d59b278477ab" />
   <Project Path="MusteriTakipUygulamasi/MusteriTakipUygulamasi.csproj" />
   <Project Path="MusteriUrunTakip/MusteriUrunTakip.csproj" />
   <Project Path="satis-raporu-olusturma/satis-raporu-olusturma.csproj" Id="0344bff8-0f47-45b6-a37d-f8afac3595fe" />
